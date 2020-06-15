@@ -1,1 +1,1 @@
-# wiki-testing (dev)
+# wiki-testing
