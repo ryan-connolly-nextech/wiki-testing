@@ -1,1 +1,3 @@
 # wiki-testing
+
+![](testing.png)
