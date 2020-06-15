@@ -1,0 +1,1 @@
+draw.io -x -f png -o drawio_images/ drawio_source/
